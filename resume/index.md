@@ -68,7 +68,7 @@ _Jan. 2015 - May 2015_
 #### CITIC Trust Co., Ltd., Information Technology Department
 _Jul. 2011- Jul. 2014_
 
-- Software Developer (Java)	
+- Software Developer (Java)	<br>
 Software Requirement Management System<br>
 -Designed and developed a web application that help software developers to manage users’ requirements of software project.<br>
 -Devised and programmed following MVC design pattern (Struts+Hibernate), combining HTML and CSS, Servlets, JavaBeans, JSP, Oracle relational database.
