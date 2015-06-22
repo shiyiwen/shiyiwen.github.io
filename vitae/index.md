@@ -13,7 +13,7 @@ Please refer to the English Version on [Linkedin](http://www.linkedin.com/pub/ka
 
 Email：Kan.Li@uth.tmc.edu；主页：<http://kan-li.github.com>
 
-中文简历： [PDF](/Kan_CV_Ch.pdf/);  Curriculum Vitae： [PDF](https://www.dropbox.com/s/bxgt1k2vbpcfj2p/Kan_CV.pdf)
+中文简历： [PDF](/Kan_CV.pdf/);  Curriculum Vitae： [PDF](https://www.dropbox.com/s/bxgt1k2vbpcfj2p/Kan_CV.pdf)
 
 # 研究兴趣
 
