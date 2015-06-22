@@ -3,8 +3,6 @@ layout: page
 title: Resume
 ---
 
-![avatar](/image.jpg/)
-
 Please refer to the English Version on [Linkedin](http://www.linkedin.com/pub/kan-li/16/401/a33/).
 
 # 联系方式
