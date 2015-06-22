@@ -1,11 +1,11 @@
 ---
-title: <font color='red'>Yiwen Shi's Homepage</font>
+title: Yiwen Shi's Homepage
 layout: page
 comments: no
 ---
 ## About Me
 
-<img align="right" src="/YiwenShi.jpg">
+<img align="right" src=“/image/YiwenShi.jpg">
 
 I am a secend year master student in Computer Science, University of Houston.
 
