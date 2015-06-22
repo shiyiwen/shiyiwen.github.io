@@ -2,7 +2,7 @@
 layout: page
 title: Activity
 ---
-<img align="right" src="~/image/PhiBetaDelta.jpg">
+<img align="right" src="http://yiwenshi.com/image/PhiBetaDelta.jpg">
 
 ## Member of Phi Beta Delta Honor Society for International Scholars
 Since March 2015
