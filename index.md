@@ -5,7 +5,7 @@ comments: no
 ---
 ## About Me
 
-<img align="right" src="/image/YiwenShi.jpg">
+<img align="right" src="image/YiwenShi.jpg">
 
 I am a secend year master student in Computer Science, University of Houston.
 
