@@ -1,5 +1,5 @@
 ---
-title: Yiwen Shi's Homepage
+title: <font color='red'>Yiwen Shi's Homepage</font>
 layout: page
 comments: no
 ---
