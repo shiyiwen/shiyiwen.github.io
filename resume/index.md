@@ -9,7 +9,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PD
 ---
 - Programming Languages: 
 
-Proficient: Java C#
+Proficient: Java C# <br>
 Experience with: Objective-C, C, Python, html, CSS 
 
 - Statistical Packages: R, MATLAB, SPSS
