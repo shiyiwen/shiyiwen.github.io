@@ -3,7 +3,4 @@ layout: page
 title: Project
 ---
 
-# Contact
-
-Email: yshi9@uh.edu
-Phone: (832)863-1593
+[[project_screenshots]](http://yiwenshi.com/image/UH.jpg)
