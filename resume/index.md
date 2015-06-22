@@ -11,7 +11,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PD
 
 Proficient: Java C#
 
-Experience with: Object C, C, Python, html, CSS 
+Experience with: Objective-C, C, Python, html, CSS 
 
 - Statistical Packages: R, MATLAB, SPSS
 - Libraries: MapReduce, ASP.net MVC4 
