@@ -43,21 +43,28 @@ _Jul. 2009_
 - Main Courses: Object-oriented Programming, Data Structures and Algorithms, Database System, Software Engineering
 
 ***
-## EMPLOYMEMT
+## Employment
 ---
-<img align="right" src="http://yiwenshi.com/image/UH.jpg">
+<img align="right" src="http://yiwenshi.com/image/Fitiri.jpg">
 #### Developer Internship, Fitiri
 _Jun. 2015 - Aug. 2015_
 
+- 123
+- 123
+- 123
+- 123
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
 _Jan. 2015 - May 2015_
 
-- GPA: 3.7/4.0
-- Concentration: Management Information System
+- 123
+- 123
+- 123
+- 123
 
-<img align="right" src="http://yiwenshi.com/image/BUPT.jpg">
+
+<img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
 #### CITIC Trust Co., Ltd., Information Technology Department
 _Jul. 2011- Jul. 2014_
 
