@@ -6,7 +6,7 @@ title: Resume
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
 
 ## Education
-
+---
 #### M.S. Computer Science, University of Houston	
 #### _Expected May 2016_
 - GPA: 3.8/4.0
