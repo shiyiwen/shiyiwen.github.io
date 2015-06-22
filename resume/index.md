@@ -4,7 +4,7 @@ title: Resume
 ---
 
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
----
+
 ## Education
 ---
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
