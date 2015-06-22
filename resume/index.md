@@ -6,14 +6,15 @@ title: Resume
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
 
 ## Education
-- M.S. Computer Science, University of Houston	Expected May 2016
--	GPA: 3.8/4.0; Main Courses: Data Mining, Big Data Analytics, Advanced Data Structures
-M.A. Management Science and Engineering
+### M.S. Computer Science, University of Houston	<p align="right">Expected May 2016</p>
+-	GPA: 3.8/4.0
+- Main Courses: Data Mining, Big Data Analytics, Advanced Data Structures
 
-- School of Business, Renmin University of China	Jul. 2011
--	GPA: 3.7/4.0; Concentration: Management Information System
+###M.A. Management Science and Engineering, School of Business, Renmin University of China	Jul. 2011
+-	GPA: 3.7/4.0
+- Concentration: Management Information System
 
-- B.E. Computer Science	Jul. 2009
+### B.E. Computer Science	Jul. 2009
 School of Computer Science, Beijing University of Posts and Telecommunications
 -	GPA: 3.6/4.0; Main Courses: Object-oriented Programming, Data Structures and Algorithms, Database System, Software Engineering
 
