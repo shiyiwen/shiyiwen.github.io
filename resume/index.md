@@ -4,12 +4,13 @@ title: Resume
 ---
 
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
-
+***
 ##Technical Strenths
 ---
 - Programming Languages: 
 
 Proficient: Java C#
+
 Experience with: Object C, C, Python, html, CSS 
 
 - Statistical Packages: R, MATLAB, SPSS
