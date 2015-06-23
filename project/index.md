@@ -2,9 +2,9 @@
 layout: page
 title: Project
 ---
-[ASP.NET](##ASP.NET Development)
-[IOS](##IOS Development)
-[Java](##Java Development)
+[ASP.NET](#ASP.NET Development)
+[IOS](#IOS Development)
+[Java](#Java Development)
 ***
 ##ASP.NET Development
 ---
