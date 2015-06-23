@@ -2,9 +2,9 @@
 layout: page
 title: Project
 ---
-[ASP.NET](#ASP.NET Development)<br>
-[IOS](#jump2)<br>
-[Java](#Java Development)
+[ASP.NET](#ASP.NET)<br>
+[IOS](#IOS)<br>
+[Java](#Java)
 ***
 ##ASP.NET Development
 ---
@@ -21,7 +21,7 @@ I implement following parts:
 ![Alt text](image/eReport2.jpg)
 
 <br>
-<span id="jump2">###Log Sheet</span>
+###Log Sheet
 
 _Apr. 2015_ | __C#/Visual Studio/SQL Server__
 
@@ -33,10 +33,11 @@ I implement following parts:
 - Validate data in code behind file, when insert or edit records.
 ![Alt text](image/logsheet.jpg "Screenshot of Log Sheet")
 
+<span id="IOS">
 ***
 ##IOS Development
 ---
-
+</span>
 ###FaceLock
 _Mar. 2015 - May 2015_ | __Objective-C/Xcode/OpenCV__
 
@@ -47,11 +48,11 @@ I implement following parts:
 - IU. Implement with TableView, CollectionView, UIImageView.
 - 2D face recognition based on LBPH algrithm.
 
-
+<span id="Java">
 ***
 ##Java Development
 ---
-
+</span>
 ###MapReduce Projects
 _Feb. 2015 - May 2015_ | __Java/Eclipse/Hadoop/MapReduce__<br>
 
