@@ -4,9 +4,16 @@ title: Resume
 ---
 
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
+
+[Technical Strenths](#Technical)<br>
+[Education](#Education)<br>
+[Employment](#Employment)
+
+<span id="Technical">
 ***
 ##Technical Strenths
 ---
+</span>
 - Programming Languages: 
 
 Proficient: Java, C# <br>
@@ -17,10 +24,11 @@ Experience with: Objective-C, C, Python, html, CSS
 - Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode, Hadoop 
 - Tools: GitHub
 
-
+<span id="Education">
 ***
 ## Education
 ---
+</span>
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### M.S. Computer Science, University of Houston	
 _Expected May 2016_
@@ -42,9 +50,11 @@ _Jul. 2009_
 - GPA: 3.6/4.0
 - Main Courses: Object-oriented Programming, Data Structures and Algorithms, Database System, Software Engineering
 
+<span id="Employment">
 ***
 ## Employment
 ---
+</span>
 <img align="right" src="http://yiwenshi.com/image/Fitiri.jpg">
 #### Developer Internship, Fitiri
 _Jun. 2015 - Aug. 2015_
