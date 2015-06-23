@@ -3,7 +3,7 @@ layout: page
 title: Project
 ---
 [ASP.NET](#ASP.NET Development)<br>
-[IOS](##jump2)<br>
+[IOS](#jump2)<br>
 [Java](#Java Development)
 ***
 ##ASP.NET Development
