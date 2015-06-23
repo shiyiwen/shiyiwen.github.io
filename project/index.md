@@ -42,3 +42,21 @@ I implement following parts:
 
 - IU. Implement with TableView, CollectionView, UIImageView.
 - 2D face recognition based on LBPH algrithm.
+
+
+***
+##Java Development
+---
+
+###MapReduce Projects
+_Feb. 2015 - May 2015_ | __Java/Eclipse/Hadoop/MapReduce__
+1. WordCount
+- Analyze the log from stackexchange.com, to compare average score of accepted answers with unaccepted answers. Input file is more than 10GB, and running time is less than 5 minutes.
+-	Use Java and MapReduce library, and implement Chained MapReduce jobs.
+2. Hbase
+- Phase log from stackexchange.com, and perform a bulk import of the data in Hbase.
+- Calculates the average number of answers per question from data in Hbase.
+3. Simple Search Engine
+- Analyze multiple thousand books as raw text files, we will build a simple search engine for identifying the most relevant books from given a search term. 
+- Implement an inverted index.
+- Build a simple retriever.
