@@ -1,5 +1,5 @@
 ---
-title: Yiwen Shi's Homepage
+title: Yiwen Shi | 施懿闻
 layout: page
 comments: no
 ---
