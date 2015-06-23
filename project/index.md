@@ -3,7 +3,6 @@ layout: page
 title: Project
 ---
 
-***
 ##ASP.NET Development
 ---
 ###Online Course Evaluation Report
