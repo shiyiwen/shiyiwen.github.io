@@ -2,8 +2,8 @@
 layout: page
 title: Project
 ---
-[ASP.NET](#ASP.NET Development)
-[IOS](#IOS Development)
+[ASP.NET](#ASP.NET Development)<br>
+[IOS](##jump2)<br>
 [Java](#Java Development)
 ***
 ##ASP.NET Development
@@ -21,7 +21,8 @@ I implement following parts:
 ![Alt text](image/eReport2.jpg)
 
 <br>
-###Log Sheet
+<span id="jump2">###Log Sheet</span>
+
 _Apr. 2015_ | __C#/Visual Studio/SQL Server__
 
 It is a project for Mesurement Evaluation Center, University of Houston.<br>
