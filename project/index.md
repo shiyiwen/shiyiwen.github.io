@@ -15,8 +15,10 @@ I implement following parts:
 
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
 - Implement access control policy by Session State.
-![Alt text](image/eReport1.jpg)![Alt text](image/eReport2.jpg)
+![Alt text](image/eReport1.jpg)
+![Alt text](image/eReport2.jpg)
 
+<br>
 ###Log Sheet
 _Apr. 2015_ | __C#/Visual Studio/SQL Server__
 
