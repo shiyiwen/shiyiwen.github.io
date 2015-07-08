@@ -36,6 +36,7 @@ I implement following parts:
 - A GridView to insert, edit and delete records of scaning log.
 - Validate data in code behind file, when insert or edit records.
 ![Alt text](image/logsheet.jpg "Screenshot of Log Sheet")
+<a href="image/logsheet.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
 
 <span id="IOS">
 ***
