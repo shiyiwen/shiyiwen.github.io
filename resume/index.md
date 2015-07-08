@@ -8,7 +8,6 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PD
 [Technical Strenths](#Technical)<br>
 [Education](#Education)<br>
 [Employment](#Employment)
-
 <span id="Technical">
 ***
 ##Technical Strenths
