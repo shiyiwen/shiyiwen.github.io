@@ -22,13 +22,11 @@ I implement following parts:
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
-<div>
+<div id="div1" onclick="changeImg(event)">
  <img src="image/eReport1.jpg" height="100px" width="100px">
-
+ <img src="image/eReport2.jpg" height="100px" width="100px">
 
 </div>
-![Alt text](image/eReport1.jpg)
-![Alt text](image/eReport2.jpg)
 
 <br>
 ###Log Sheet
@@ -88,6 +86,7 @@ function changeImg(event)
 {
 	event = event || window.event;
 	var targetElement = event.target || event.srcElement;
+	document.getElementById("mainImg1").src = targetElement.getAttribute("src");
 
 }
 </script>
