@@ -23,8 +23,8 @@ I implement following parts:
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)">
- <img src="image/eReport1.jpg" height="100px" width="100px">
- <img src="image/eReport2.jpg" height="100px" width="100px">
+ <img src="image/eReport1.jpg" class="imgStyle">
+ <img src="image/eReport2.jpg" class="imgStyle">
 
 </div>
 
@@ -88,5 +88,14 @@ function changeImg(event)
 	var targetElement = event.target || event.srcElement;
 	document.getElementById("mainImg1").src = targetElement.getAttribute("src");
 
+}
+</script>
+
+<script type="text/css">
+.imgStyle
+{
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
 }
 </script>
