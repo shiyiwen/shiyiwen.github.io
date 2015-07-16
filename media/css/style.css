@@ -55,7 +55,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 	height: 100px;
 	width: 100px;
 	padding: 2px;
-    text-align:center;
+display:inline-block; vertical-align:middle;
 }
 
 
