@@ -86,12 +86,12 @@ __3. Simple Search Engine__
 	for(var i=0; i<=images.length; i++){
 		images[i].onmouseover = function(){
 			this.style.cursor='hand';
-			this.style.borderColor = 'red';
+			this.imgStyle.borderColor = 'red';
 		}
 
 		images[i].onmouseout = function(){
 			this.style.cursor='pointer';
-			this.style.borderColor = 'gray';
+			this.imgStyle.borderColor = 'gray';
 		}
 	}
 
