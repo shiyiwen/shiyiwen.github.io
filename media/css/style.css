@@ -56,6 +56,6 @@ embed,object,iframe{display:block;margin:4px auto;}
 	width: 100px;
 	border: 2px solid gray;
 	padding: 2px;
-	display: inline;
+	display: inline-block;
 }
 
