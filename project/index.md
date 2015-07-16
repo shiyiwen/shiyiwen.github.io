@@ -1,3 +1,25 @@
+<script type="text/javascript">
+	var images = document.getElementById("div1").getElementsByTagName("img");
+	for(var i=0; i<=images.length; i++){
+		images[i].onmouseover = function(){
+			this.style.cursor='hand';
+			this.style.border-color = 'red';
+		}
+
+		images[i].onmouseout = function(){
+			this.style.cursor='pointer';
+			this.style.border-color = 'gray';
+		}
+	}
+
+	function changeImg(event)
+	{
+		event = event || window.event;
+		var targetElement = event.target || event.srcElement;
+		document.getElementById("mainImg1").src = targetElement.getAttribute("src");
+	}
+</script>
+
 ---
 layout: page
 title: Project
@@ -80,25 +102,5 @@ __3. Simple Search Engine__
 - Build a simple retriever.
 
 
-<script type="text/javascript">
-	var images = document.getElementById("div1").getElementsByTagName("img");
-	for(var i=0; i<=images.length; i++){
-		images[i].onmouseover = function(){
-			this.style.cursor='hand';
-			this.style.border-color = 'red';
-		}
 
-		images[i].onmouseout = function(){
-			this.style.cursor='pointer';
-			this.style.border-color = 'gray';
-		}
-	}
-
-	function changeImg(event)
-	{
-		event = event || window.event;
-		var targetElement = event.target || event.srcElement;
-		document.getElementById("mainImg1").src = targetElement.getAttribute("src");
-	}
-</script>
 
