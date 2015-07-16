@@ -23,8 +23,8 @@ I implement following parts:
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)">
- <img src="image/eReport1.jpg" class="imgStyle">
- <img src="image/eReport2.jpg" class="imgStyle">
+ <img src="image/eReport1.jpg" class="imgStyle" />
+ <img src="image/eReport2.jpg" class="imgStyle" />
 
 </div>
 
@@ -84,6 +84,19 @@ __3. Simple Search Engine__
 <script type="text/javascript">
 function changeImg(event)
 {
+	var images = document.getElementById("div1").getElementsByTagName("img");
+	for(var i=0; i<=images.length; i++){
+		images[i].onmouseover = function(){
+			this.style.cursor='hand';
+			this.style.borderColor = 'red';
+		}
+
+		images[i].onmouseout = function(){
+			this.style.cursor='pointer';
+			this.style.borderColor = 'blacks';
+		}
+	}
+
 	event = event || window.event;
 	var targetElement = event.target || event.srcElement;
 	document.getElementById("mainImg1").src = targetElement.getAttribute("src");
