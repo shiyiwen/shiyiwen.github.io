@@ -82,8 +82,6 @@ __3. Simple Search Engine__
 
 
 <script type="text/javascript">
-function changeImg(event)
-{
 	var images = document.getElementById("div1").getElementsByTagName("img");
 	for(var i=0; i<=images.length; i++){
 		images[i].onmouseover = function(){
@@ -96,19 +94,12 @@ function changeImg(event)
 			this.style.borderColor = 'blacks';
 		}
 	}
-
-	event = event || window.event;
-	var targetElement = event.target || event.srcElement;
-	document.getElementById("mainImg1").src = targetElement.getAttribute("src");
-
-}
+	
+	function changeImg(event)
+	{
+		event = event || window.event;
+		var targetElement = event.target || event.srcElement;
+		document.getElementById("mainImg1").src = targetElement.getAttribute("src");
+	}
 </script>
 
-<script type="text/css">
-.imgStyle
-{
-	height: 100px;
-	width: 100px;
-	border: 1px solid black;
-}
-</script>
