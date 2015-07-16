@@ -23,9 +23,10 @@ I implement following parts:
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)">
+	<p>
  <img src="image/eReport1.jpg" class="imgStyle" />
  <img src="image/eReport2.jpg" class="imgStyle" />
-
+</p>
 </div>
 
 <br>
@@ -86,12 +87,12 @@ __3. Simple Search Engine__
 	for(var i=0; i<=images.length; i++){
 		images[i].onmouseover = function(){
 			this.style.cursor='hand';
-			this.imgStyle.borderColor = 'red';
+			this.style.border-color = 'red';
 		}
 
 		images[i].onmouseout = function(){
 			this.style.cursor='pointer';
-			this.imgStyle.borderColor = 'gray';
+			this.style.border-color = 'gray';
 		}
 	}
 
