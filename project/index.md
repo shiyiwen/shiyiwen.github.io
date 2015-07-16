@@ -81,4 +81,13 @@ __3. Simple Search Engine__
 
 
 
+<script type="text/javascript">
 
+
+	function changeImg(event)
+	{
+		event = event || window.event;
+		var targetElement = event.target || event.srcElement;
+		document.getElementById("mainImg1").src = targetElement.getAttribute("src");
+	}
+</script>
