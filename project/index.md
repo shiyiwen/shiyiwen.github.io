@@ -24,18 +24,11 @@ I implement following parts:
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)" class="imgStyle">
 	<ul class="imgStyle"> 
-   <li class="imgStyle">
-     <img src="image/eReport1.jpg"  />
-   </li>
-      <li class="imgStyle">
-     <img src="image/eReport2.jpg"  />
-   </li>
-</ul>
-
-
+	   	<li class="imgStyle"><img src="image/eReport1.jpg"/></li>
+	    <li class="imgStyle"><img src="image/eReport2.jpg"  /></li>
+	</ul>
 </div>
 
-<br>
 ###Log Sheet
 
 _Apr. 2015_ | __C#/Visual Studio/SQL Server__
@@ -90,8 +83,6 @@ __3. Simple Search Engine__
 
 
 <script type="text/javascript">
-
-
 	function changeImg(event)
 	{
 		event = event || window.event;
