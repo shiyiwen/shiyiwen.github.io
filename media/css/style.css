@@ -54,18 +54,17 @@ embed,object,iframe{display:block;margin:4px auto;}
 {
 	height: 100px;
 	width: 100px;
-	border: 2px solid gray;
 	padding: 2px;
-	display: inline-block;
+    float: left;
 }
 
 
 .imgStyle img {
     display: inline;
-    border: 2px solid #ffffff;
+    border: 2px solid gray;
 }
 
-.imgStyle a:hover img {
+.imgStyle a.img:hover {
 	cursor: hand;
     border: 2px solid red;
 }
