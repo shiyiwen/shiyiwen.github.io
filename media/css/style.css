@@ -55,14 +55,15 @@ embed,object,iframe{display:block;margin:4px auto;}
 	height: 100px;
 	width: 100px;
 	padding: 2px;
-display:inline-block; vertical-align:middle;
+	float: left;
+vertical-align:middle;
 }
 
 
 .imgStyle img {
 	height: 100px;
 	width: 100px;
-    float: right;
+    float: left;display:inline-block; 
     border: 2px solid gray;
 }
 
