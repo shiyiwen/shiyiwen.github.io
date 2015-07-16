@@ -60,6 +60,8 @@ embed,object,iframe{display:block;margin:4px auto;}
 
 
 .imgStyle img {
+	height: 100px;
+	width: 100px;
     display: inline;
     border: 2px solid gray;
 }
