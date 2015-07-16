@@ -22,9 +22,9 @@ I implement following parts:
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
-<div id="div1" onclick="changeImg(event)">
- <img src="image/eReport1.jpg" class="imgStyle" />
- <img src="image/eReport2.jpg" class="imgStyle" />
+<div id="div1" onclick="changeImg(event)" class="imgStyle">
+ <img src="image/eReport1.jpg"  />
+ <img src="image/eReport2.jpg"  />
 </div>
 
 <br>
