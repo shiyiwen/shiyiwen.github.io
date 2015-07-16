@@ -91,10 +91,10 @@ __3. Simple Search Engine__
 
 		images[i].onmouseout = function(){
 			this.style.cursor='pointer';
-			this.style.borderColor = 'blacks';
+			this.style.borderColor = 'gray';
 		}
 	}
-	
+
 	function changeImg(event)
 	{
 		event = event || window.event;

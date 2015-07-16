@@ -54,6 +54,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 {
 	height: 100px;
 	width: 100px;
-	border: 1px solid black;
+	border: 2px solid gray;
+	float: left;
 }
 
