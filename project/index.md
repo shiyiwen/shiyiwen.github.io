@@ -21,6 +21,12 @@ I implement following parts:
 
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
 - Implement access control policy by Session State.
+<img src="image/eReport1.jpg" id="mainImg1">
+<div>
+ <img src="image/eReport1.jpg" height="100px" width="100px">
+
+
+</div>
 ![Alt text](image/eReport1.jpg)
 ![Alt text](image/eReport2.jpg)
 
@@ -75,3 +81,13 @@ __3. Simple Search Engine__
 - Analyze multiple thousand books as raw text files, we will build a simple search engine for identifying the most relevant books from given a search term. 
 - Implement an inverted index.
 - Build a simple retriever.
+
+
+<script type="text/javascript">
+function changeImg(event)
+{
+	event = event || window.event;
+	var targetElement = event.target || event.srcElement;
+
+}
+</script>
