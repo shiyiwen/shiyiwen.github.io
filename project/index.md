@@ -23,8 +23,16 @@ I implement following parts:
 - Implement access control policy by Session State.
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)" class="imgStyle">
- <img src="image/eReport1.jpg"  />
- <img src="image/eReport2.jpg"  />
+	<ul class="imgStyle"> 
+   <li class="imgStyle">
+     <img src="image/eReport1.jpg"  />
+   </li>
+      <li class="imgStyle">
+     <img src="image/eReport2.jpg"  />
+   </li>
+</ul>
+
+
 </div>
 
 <br>
