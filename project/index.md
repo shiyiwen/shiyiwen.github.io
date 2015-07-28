@@ -12,6 +12,17 @@ title: Project
 ---
 </span>
 
+###Timesheet System
+_Jun. 2015 - Aug. 2015 | __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
+
+http://timesheetdemo.somee.com
+It is an ASP.NET MVC application to manage employee’s personal information and work attendance. <br>
+I implement following parts:
+
+- Models of employee management, attendence management with ASP.NET MVC4 and Database First development using Entity Framework.
+- UI and interactive tables enable sort and filter by multiple key words with CSS and jQuery.
+
+
 ###Online Course Evaluation Report
 _Apr. 2015 - Present_ | __C#/Visual Studio/SQL Server__
 
@@ -20,7 +31,7 @@ It is an ASP.NET Web Forms application to generate online course evaluation repo
 I implement following parts:
 
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
-- Implement access control policy by Session State.
+- Implement access control policy by Session State, to guarantee faculties can only view the report they authorized.
 <img src="image/eReport1.jpg" id="mainImg1">
 <div id="div1" onclick="changeImg(event)" class="imgStyle">
 	<ul class="imgStyle"> 
