@@ -13,7 +13,8 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV.pdf) | 中文简历: [PD
 ##Technical Strenths
 ---
 </span>
-- Programming Languages: *Java, C#* _(Proficient)_; Objective-C, C, Python, html, CSS _(Experience with)_
+
+- Programming Languages: __Java, C#__ _(Proficient)_; Objective-C, C, Python, html, CSS _(Experience with)_
 - Statistical Packages: R, MATLAB, SPSS
 - Libraries: MapReduce, ASP.net MVC4, OpenCV 
 - Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode, Hadoop 
