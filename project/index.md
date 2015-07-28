@@ -13,15 +13,16 @@ title: Project
 </span>
 
 ###Timesheet System
-_Jun. 2015 - Aug. 2015 | __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
+_Jun. 2015 - Aug. 2015_| __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
 
-http://timesheetdemo.somee.com
+[Demo](http://timesheetdemo.somee.com)<br>
 It is an ASP.NET MVC application to manage employee’s personal information and work attendance. <br>
 I implement following parts:
 
 - Models of employee management, attendence management with ASP.NET MVC4 and Database First development using Entity Framework.
 - UI and interactive tables enable sort and filter by multiple key words with CSS and jQuery.
 
+<br>
 
 ###Online Course Evaluation Report
 _Apr. 2015 - Present_ | __C#/Visual Studio/SQL Server__
@@ -49,7 +50,7 @@ It is an ASP.NET Web Forms application to manage the scaning log.<br>
 I implement following parts:
 
 - A GridView to insert, edit and delete records of scaning log.
-- Validate data in code behind file, when insert or edit records.
+- Implemented A GridView to insert, update, delete and validate records of scanning log. 
 ![Alt text](image/logsheet.jpg "Screenshot of Log Sheet")
 
 <span id="IOS">
