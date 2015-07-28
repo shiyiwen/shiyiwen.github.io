@@ -12,10 +12,9 @@ title: Project
 ---
 </span>
 
-###Timesheet System
+###Timesheet System ([Demo](http://timesheetdemo.somee.com))<br>
 _Jun. 2015 - Aug. 2015_| __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
 
-[Demo](http://timesheetdemo.somee.com)<br>
 It is an ASP.NET MVC application to manage employee’s personal information and work attendance. <br>
 I implement following parts:
 
