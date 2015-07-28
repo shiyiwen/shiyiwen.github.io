@@ -61,11 +61,11 @@ I implement following parts:
 _Mar. 2015 - May 2015_ | __Objective-C/Xcode/OpenCV__
 
 It is a Computer Vition class project. There are four members in the group.<br>
-It is an ISO application that implement 2D and 3D face detection and recogenition. <br>
+It is an ISO application that implement 2D and 3D face detection and recognition. <br>
 I implement following parts:
 
 - IU. Implement with TableView, CollectionView, UIImageView.
-- 2D face recognition based on LBPH algrithm.
+- 2D face recognition based on LBPH algorithm.
 
 <span id="Java">
 ***
