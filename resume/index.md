@@ -15,7 +15,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf) | 中文简历: 
 </span>
 
 - Programming Languages: <br>
-__&nbsp;&nbsp;&nbsp;Proficient: Java, C#__  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;__Proficient: Java, C#__  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Experience with: Objective-C, C, Python, HTML, CSS, JavaScript 
 - Statistical Packages: R, MATLAB, SPSS
 - Libraries: MapReduce, ASP.net MVC4, OpenCV 
@@ -59,7 +59,7 @@ _Jun. 2015 - Aug. 2015_
 
 - Built a Timesheet System to manage employee’s personal information and work attendance. 
 - More Detials? Please visit <br>
-[Timesheet System](http://yiwenshi.com/project/#Timesheet)
+&nbsp;&nbsp;&nbsp;&nbsp;[Timesheet System](http://yiwenshi.com/project/#Timesheet)
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
@@ -68,8 +68,8 @@ _Jan. 2015 - present_
 - Developed and maintained the Course Evaluation System of University of Houston.
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
 - More Detials? Please visit <br>
-[Online Course Evaluation Report](http://yiwenshi.com/project/#EvalRpt) 
-[Log Sheet System](http://yiwenshi.com/project/#LogSheet) 
+&nbsp;&nbsp;&nbsp;&nbsp;[Online Course Evaluation Report](http://yiwenshi.com/project/#EvalRpt) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Log Sheet System](http://yiwenshi.com/project/#LogSheet) 
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
 #### IT team leader & System Administrator, CITIC Trust Co., Ltd., IT Department
