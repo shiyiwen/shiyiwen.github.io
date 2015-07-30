@@ -14,12 +14,12 @@ title: Project
 
 <span id="Timesheet">
 ###Timesheet System ([Demo](http://timesheetdemo.somee.com))<br>
-_Jun. 2015 - Aug. 2015_| __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
+_Jun. 2015 - Aug. 2015_| __C# / ASP.NET MVC4 / Entity Framework / CSS / jQuery__
 
 It is an ASP.NET MVC application to manage employee’s personal information and work attendance. <br>
 I implement following parts:
 
-- Models of employee management, attendence management with ASP.NET MVC4 and Database First development using Entity Framework.
+- Models of employee management, attendance management with ASP.NET MVC4 and Database First development using Entity Framework.
 - UI and interactive tables enable sort and filter by multiple key words with CSS and jQuery.
 
 <img src="image/Timesheet1.jpg" id="mainImg1" class="mainImgStyle">
@@ -38,13 +38,13 @@ I implement following parts:
 
 <span id="EvalRpt">
 ###Online Course Evaluation Report
-_Apr. 2015 - Present_ | __C#/Visual Studio/SQL Server__
+_Apr. 2015 - Present_ | __C# / Visual Studio / SQL Server__
 
-It is a project for Mesurement Evaluation Center, University of Houston.<br>
+It is a project for Measurement Evaluation Center, University of Houston.<br>
 It is an ASP.NET Web Forms application to generate online course evaluation report for all the faculties and students.<br>
 I implement following parts:
 
-- Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
+- Generate Online Course Evaluation Report with various questionnaires from different colleges/departments.
 - Implement access control policy by Session State, to guarantee faculties can only view the report they authorized.
 
 <img src="image/eReport1.jpg" id="mainImg2" class="mainImgStyle">
@@ -59,10 +59,10 @@ I implement following parts:
 <span id="LogSheet">
 ###Log Sheet
 
-_Apr. 2015_ | __C#/Visual Studio/SQL Server__
+_Apr. 2015_ | __C# / Visual Studio / SQL Server__
 
-It is a project for Mesurement Evaluation Center, University of Houston.<br>
-It is an ASP.NET Web Forms application to manage the scaning log.<br>
+It is a project for Measurement Evaluation Center, University of Houston.<br>
+It is an ASP.NET Web Forms application to manage the scanning log.<br>
 I implement following parts:
 
 - A GridView to insert, edit and delete records of scaning log.
@@ -78,10 +78,10 @@ I implement following parts:
 ---
 </span>
 ###FaceLock
-_Mar. 2015 - May 2015_ | __Objective-C/Xcode/OpenCV__
+_Mar. 2015 - May 2015_ | __Objective-C / Xcode / OpenCV__
 
 It is a Computer Vition class project. There are four members in the group.<br>
-It is an ISO application that implement 2D and 3D face detection and recognition. <br>
+It is an ISO application that implements 2D and 3D face detection and recognition. <br>
 I implement following parts:
 
 - IU. Implement with TableView, CollectionView, UIImageView.
@@ -104,7 +104,7 @@ I implement following parts:
 ---
 </span>
 ###MapReduce Projects
-_Feb. 2015 - May 2015_ | __Java/Eclipse/Hadoop/MapReduce__<br>
+_Feb. 2015 - May 2015_ | __Java / Eclipse / Hadoop / MapReduce / Hbase__<br>
 
 __1. WordCount__
 
@@ -122,6 +122,19 @@ __3. Simple Search Engine__
 - Implement an inverted index.
 - Build a simple retriever.
 
+<span id="Matlab">
+***
+##Matlab Development
+---
+</span>
+###Classification of U.S. Coins
+_Nov. 2014 - Dec. 2014 | __Matlab/Image Processing__<br>
+
+It is a Digital Image Processing class project. There are five members in the group.<br>
+This is a Matlab  an image analysis model to find out the total value of coins in the image.
+<br>
+I implement following parts:
+-	Implement image-processing algorithms (color segmentation, circle Hough transformation) to extract coins’ feature.
 
 
 <script type="text/javascript">
