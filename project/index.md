@@ -21,6 +21,17 @@ I implement following parts:
 
 - Models of employee management, attendence management with ASP.NET MVC4 and Database First development using Entity Framework.
 - UI and interactive tables enable sort and filter by multiple key words with CSS and jQuery.
+<img src="image/Timesheet1.jpg" id="mainImg1">
+<div id="div1" onclick="changeImg(event,"mainImg1")" class="imgStyle">
+	<ul class="imgStyle"> 
+	   	<li class="imgStyle"><img src="image/Timesheet1.jpg"/></li>
+	    <li class="imgStyle"><img src="image/Timesheet2.jpg"/></li>
+	   	<li class="imgStyle"><img src="image/Timesheet3.jpg"/></li>
+	    <li class="imgStyle"><img src="image/Timesheet4.jpg"/></li>
+	    <li class="imgStyle"><img src="image/Timesheet5.jpg"/></li>
+	    <li class="imgStyle"><img src="image/Timesheet6.jpg"/></li>
+	</ul>
+</div>
 </span>
 <br>
 
@@ -34,8 +45,8 @@ I implement following parts:
 
 - Generate Online Course Evaluation Report with various questionaire from different colleges/departments.
 - Implement access control policy by Session State, to guarantee faculties can only view the report they authorized.
-<img src="image/eReport1.jpg" id="mainImg1">
-<div id="div1" onclick="changeImg(event)" class="imgStyle">
+<img src="image/eReport1.jpg" id="mainImg2">
+<div id="div2" onclick="changeImg(event,"mainImg2")" class="imgStyle">
 	<ul class="imgStyle"> 
 	   	<li class="imgStyle"><img src="image/eReport1.jpg"/></li>
 	    <li class="imgStyle"><img src="image/eReport2.jpg"  /></li>
@@ -99,10 +110,10 @@ __3. Simple Search Engine__
 
 
 <script type="text/javascript">
-	function changeImg(event)
+	function changeImg(event,mainimg)
 	{
 		event = event || window.event;
 		var targetElement = event.target || event.srcElement;
-		document.getElementById("mainImg1").src = targetElement.getAttribute("src");
+		document.getElementById(mainimg).src = targetElement.getAttribute("src");
 	}
 </script>
