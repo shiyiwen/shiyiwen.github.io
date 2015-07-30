@@ -50,7 +50,7 @@ code{background-color:#F7F7F7;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
 
-.mainImgStyle img {
+.mainImgStyle{
     box-shadow: 10px 10px 5px #888888;
 }
 
@@ -59,7 +59,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 	height: 100px;
 	width: 100px;
 	padding: 2px;
-display:inline; vertical-align:middle;
+	display:inline; vertical-align:middle;
 }
 
 
@@ -72,5 +72,6 @@ display:inline; vertical-align:middle;
 
 .imgStyle img:hover {
 	cursor: hand;
+	border: 2px red box-shadow
 }
 
