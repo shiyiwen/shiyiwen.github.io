@@ -12,6 +12,7 @@ title: Project
 ---
 </span>
 
+<span id="Timesheet">
 ###Timesheet System ([Demo](http://timesheetdemo.somee.com))<br>
 _Jun. 2015 - Aug. 2015_| __C#/ASP.NET MVC4/Entity Framework/CSS/jQuery__
 
@@ -20,9 +21,10 @@ I implement following parts:
 
 - Models of employee management, attendence management with ASP.NET MVC4 and Database First development using Entity Framework.
 - UI and interactive tables enable sort and filter by multiple key words with CSS and jQuery.
-
+</span>
 <br>
 
+<span id="EvalRpt">
 ###Online Course Evaluation Report
 _Apr. 2015 - Present_ | __C#/Visual Studio/SQL Server__
 
@@ -39,7 +41,9 @@ I implement following parts:
 	    <li class="imgStyle"><img src="image/eReport2.jpg"  /></li>
 	</ul>
 </div>
+</span>
 
+<span id="LogSheet">
 ###Log Sheet
 
 _Apr. 2015_ | __C#/Visual Studio/SQL Server__
@@ -51,6 +55,7 @@ I implement following parts:
 - A GridView to insert, edit and delete records of scaning log.
 - Implemented A GridView to insert, update, delete and validate records of scanning log. 
 ![Alt text](image/logsheet.jpg "Screenshot of Log Sheet")
+</span>
 
 <span id="IOS">
 ***
