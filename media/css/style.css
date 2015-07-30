@@ -51,7 +51,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
 
 .mainImgStyle{
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 5px #888888;
 }
 
 .imgStyle
@@ -72,6 +72,6 @@ embed,object,iframe{display:block;margin:4px auto;}
 
 .imgStyle img:hover {
 	cursor: hand;
-	border: 2px red box-shadow
+	border: 2px red box-shadow;
 }
 
