@@ -98,7 +98,7 @@ I implement following parts:
 	    <li class="imgStyle"><img src="image/FaceLock5.jpg"/></li>
 	</ul>
 </div>
-<embed src="image/FaceLock.mp4" autostart="false" />
+
 <span id="Java">
 ***
 ##Java Development
