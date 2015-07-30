@@ -50,6 +50,10 @@ code{background-color:#F7F7F7;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
 
+.mainImgStyle img {
+    box-shadow: 2px 2px 2px #888888;
+}
+
 .imgStyle
 {
 	height: 100px;
@@ -68,6 +72,6 @@ display:inline; vertical-align:middle;
 
 .imgStyle img:hover {
 	cursor: hand;
-    border: 2px solid red;
+    border: 2px solid gray;
 }
 
