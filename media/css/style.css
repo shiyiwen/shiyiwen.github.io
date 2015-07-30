@@ -72,6 +72,6 @@ embed,object,iframe{display:block;margin:4px auto;}
 
 .imgStyle img:hover {
 	cursor: hand;
-	border: 2px red box-shadow;
+	border: 2px red solid;
 }
 
