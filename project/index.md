@@ -87,14 +87,14 @@ I implement following parts:
 - IU. Implement with TableView, CollectionView, UIImageView.
 - 2D face recognition based on LBPH algorithm.
 
-<img src="image/Facelock1.jpg" id="mainImg4" class="mainImgStyle">
+<img src="image/FaceLock1.jpg" id="mainImg4" class="mainImgStyle">
 <div id="div1" onclick="changeImg(event,'mainImg4')" class="imgStyle">
 	<ul class="imgStyle"> 
-	   	<li class="imgStyle"><img src="image/Facelock1.jpg"/></li>
-	    <li class="imgStyle"><img src="image/Facelock2.jpg"/></li>
-	   	<li class="imgStyle"><img src="image/Facelock3.jpg"/></li>
-	    <li class="imgStyle"><img src="image/Facelock4.jpg"/></li>
-	    <li class="imgStyle"><img src="image/Facelock5.jpg"/></li>
+	   	<li class="imgStyle"><img src="image/FaceLock1.jpg"/></li>
+	    <li class="imgStyle"><img src="image/FaceLock2.jpg"/></li>
+	   	<li class="imgStyle"><img src="image/FaceLock3.jpg"/></li>
+	    <li class="imgStyle"><img src="image/FaceLock4.jpg"/></li>
+	    <li class="imgStyle"><img src="image/FaceLock5.jpg"/></li>
 	</ul>
 </div>
 
