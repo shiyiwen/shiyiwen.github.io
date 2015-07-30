@@ -51,6 +51,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
 
 .mainImgStyle{
+	border: gray 1px solid;
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	   -moz-box-shadow: 0 8px 6px -6px black;
 	        box-shadow: 0 8px 6px -6px black;
@@ -74,6 +75,6 @@ embed,object,iframe{display:block;margin:4px auto;}
 
 .imgStyle img:hover {
 	cursor: hand;
-	border: 2px transparent solid;
+	border: 2px solid rgba(255, 255, 255, .5);
 }
 
