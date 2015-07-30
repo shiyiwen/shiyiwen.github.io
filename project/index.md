@@ -128,13 +128,13 @@ __3. Simple Search Engine__
 ---
 </span>
 ###Classification of U.S. Coins
-_Nov. 2014 - Dec. 2014 | __Matlab/Image Processing__<br>
+_Nov. 2014 - Dec. 2014_ | __Matlab / Image Processing__<br>
 
 It is a Digital Image Processing class project. There are five members in the group.<br>
-This is a Matlab  an image analysis model to find out the total value of coins in the image.
+This is a Matlab model to find out the total value of coins in the image.
 <br>
-I implement following parts:
--	Implement image-processing algorithms (color segmentation, circle Hough transformation) to extract coins’ feature.
+I implement following parts:<br>
+- Implement image-processing algorithms (color segmentation, circle Hough transformation) to extract coins’ feature.
 
 
 <script type="text/javascript">
