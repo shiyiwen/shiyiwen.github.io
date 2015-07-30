@@ -5,12 +5,12 @@ title: Resume
 
 Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
 
-[Technical Strenths](#Technical)<br>
+[Technical Strengths](#Technical)<br>
 [Education](#Education)<br>
 [Employment](#Employment)
 <span id="Technical">
 ***
-##Technical Strenths
+##Technical Strengths
 ---
 </span>
 
@@ -19,7 +19,7 @@ __&nbsp;&nbsp;&nbsp;Proficient: Java, C#__  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Experience with: Objective-C, C, Python, HTML, CSS, JavaScript 
 - Statistical Packages: R, MATLAB, SPSS
 - Libraries: MapReduce, ASP.net MVC4, OpenCV 
-- Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode, Hadoop 
+- Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode
 - Tools: GitHub
 
 <span id="Education">
@@ -31,7 +31,7 @@ __&nbsp;&nbsp;&nbsp;Proficient: Java, C#__  <br>
 #### M.S. Computer Science, University of Houston	
 _Expected May 2016_
 
-- GPA: 3.8/4.0
+- GPA: 3.85/4.0
 - Main Courses: Data Mining, Big Data Analytics, Advanced Data Structures
 
 <img align="right" src="http://yiwenshi.com/image/RUC.jpg">
@@ -42,7 +42,7 @@ _Jul. 2011_
 - Concentration: Management Information System
 
 <img align="right" src="http://yiwenshi.com/image/BUPT.jpg">
-#### B.E. Computer Science, School of Computer Science, Beijing University of Posts and Telecommunications
+#### B.E. Computer Science, Beijing University of Posts and Telecommunications
 _Jul. 2009_
 
 - GPA: 3.6/4.0
@@ -57,30 +57,24 @@ _Jul. 2009_
 #### Developer Internship, Fitiri
 _Jun. 2015 - Aug. 2015_
 
-- Build 
-- 123
-- 123
-- 123
+- Built a Timesheet System to manage employee’s personal information and work attendance. 
+- More Detials? Please visit <br>
+[Timesheet System](http://yiwenshi.com/project/#Timesheet)
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
-_Jan. 2015 - May 2015_
+_Jan. 2015 - present_
 
-- 123
-- 123
-- 123
-- 123
-
+- Developed and maintained the Course Evaluation System of University of Houston.
+- Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
+- More Detials? Please visit <br>
+[Online Course Evaluation Report](http://yiwenshi.com/project/#EvalRpt) 
+[Log Sheet System](http://yiwenshi.com/project/#LogSheet) 
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
-#### CITIC Trust Co., Ltd., Information Technology Department
+#### IT team leader & System Administrator, CITIC Trust Co., Ltd., IT Department
 _Jul. 2011- Jul. 2014_
 
-- Software Developer (Java)	<br>
-Software Requirement Management System<br>
--Designed and developed a web application that help software developers to manage users’ requirements of software project.<br>
--Devised and programmed following MVC design pattern (Struts+Hibernate), combining HTML and CSS, Servlets, JavaBeans, JSP, Oracle relational database.
-- IT team leader	
 Trust Finance System / Payments and Receivables System<br>
 -Administrate Finance Management System, which operate in Window, Linux, and Oracle database.<br>
 -Maintain and optimize large-scale enterprise databases to assist various business applications.<br>
