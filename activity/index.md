@@ -17,4 +17,4 @@ In this capacity, I servers faculties and students from different nationalities 
 ## Volunteer of Mars Rover Celebration
 _January 31, 2015_
 
-I severd 7 hours of outstanding volunteer efforts. [Certificate of Honor](/files/2015_MarsRoverJudgeCertificates_Part251.pdf)
+I serverd 7 hours of outstanding volunteer efforts. [Certificate of Honor](/files/2015_MarsRoverJudgeCertificates_Part251.pdf)
