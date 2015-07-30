@@ -5,7 +5,8 @@ title: Project
 
 [ASP.NET](#ASPNET)<br>
 [IOS](#IOS)<br>
-[Java](#Java)
+[Java](#Java)<br>
+[Matlab](#Matlab)
 <span id="ASPNET">
 ***
 ##ASP.NET Development
@@ -134,8 +135,16 @@ It is a Digital Image Processing class project. There are five members in the gr
 This is a Matlab model to find out the total value of coins in the image.
 <br>
 I implement following parts:<br>
+
 - Implement image-processing algorithms (color segmentation, circle Hough transformation) to extract coins’ feature.
 
+<img src="image/Coin1.jpg" id="mainImg5" class="mainImgStyle">
+<div id="div1" onclick="changeImg(event,'mainImg5')" class="imgStyle">
+	<ul class="imgStyle"> 
+	   	<li class="imgStyle"><img src="image/Coin1.jpg"/></li>
+	    <li class="imgStyle"><img src="image/Coin2.jpg"/></li>
+	</ul>
+</div>
 
 <script type="text/javascript">
 	function changeImg(event, mainimg)
