@@ -78,3 +78,16 @@ embed,object,iframe{display:block;margin:4px auto;}
 	border: 2px solid rgba(255, 255, 255, .5);
 }
 
+a#backToTop {
+    width:40px;
+    height:40px;
+    opacity:0.5;
+    position:fixed;
+    bottom:5px;
+    left:50%;
+    display:none;
+    text-indent:-10000px;
+    outline:none !important;
+    background-image: url('../img/top.png');
+    background-repeat: no-repeat;
+}

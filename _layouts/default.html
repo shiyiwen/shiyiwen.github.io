@@ -9,6 +9,21 @@
     <link rel="stylesheet" href="/media/css/style.css">
     <link rel="stylesheet" href="/media/css/highlight.css">
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+          $(window).scroll(function(){
+              if ($(this).scrollTop() > 50) {
+                  $('#backToTop').fadeIn('slow');
+              } else {
+                  $('#backToTop').fadeOut('slow');
+              }
+          });
+          $('#backToTop').click(function(){
+              $("html, body").scrollTop(0);
+              return false;
+          });
+      });
+    </script>
   </head>
   <body>
     <div id="container">

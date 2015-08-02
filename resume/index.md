@@ -86,3 +86,20 @@ Trust Finance System / Payments and Receivables System<br>
 -Maintain and optimize large-scale enterprise databases to assist various business applications.<br>
 -Led business team to analyze business process, manage requirement and design test cases.<br>
 -Led development team to design and develop software and perform upgrading based on user’s feedback.
+
+
+<a href="#" ID="backToTop"></a>
+
+jQuery(document).ready(function($){
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 50) {
+            $('#backToTop').fadeIn('slow');
+        } else {
+            $('#backToTop').fadeOut('slow');
+        }
+    });
+    $('#backToTop').click(function(){
+        $("html, body").scrollTop(0);
+        return false;
+    });
+});
