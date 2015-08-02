@@ -88,6 +88,6 @@ a#backToTop {
     display:none;
     text-indent:-10000px;
     outline:none !important;
-    background-image: url('../img/top.png');
+    background-image: url('BackToTop.png');
     background-repeat: no-repeat;
 }
