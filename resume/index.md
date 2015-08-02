@@ -3,7 +3,8 @@ layout: page
 title: Resume
 ---
 
-Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf) | 中文简历: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_cn.pdf)
+Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf) 
+
 
 [Technical Strengths](#Technical)<br>
 [Education](#Education)<br>
