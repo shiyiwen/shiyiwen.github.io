@@ -68,7 +68,8 @@ _Jan. 2015 - present_
 - Developed and maintained the Course Evaluation System of University of Houston.
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
 - More Detials? Please visit <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Online Course Evaluation Report](http://yiwenshi.com/project/#EvalRpt) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://yiwenshi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a> 
 &nbsp;&nbsp;&nbsp;&nbsp;[Log Sheet System](http://yiwenshi.com/project/#LogSheet) 
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
