@@ -69,7 +69,6 @@ _Jan. 2015 - present_
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
 - More Detials? Please visit 
 
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://yiwenshi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a>
 <br>
