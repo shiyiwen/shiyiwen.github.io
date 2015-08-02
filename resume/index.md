@@ -58,8 +58,10 @@ _Jul. 2009_
 _Jun. 2015 - Aug. 2015_
 
 - Built a Timesheet System to manage employee’s personal information and work attendance. 
-- More Detials? Please visit <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Timesheet System](http://yiwenshi.com/project/#Timesheet)
+- More Detials? Please visit
+
+&nbsp;&nbsp;&nbsp;
+<a href="http://yiwenshi.com/project/#Timesheet" target="_blank">Timesheet System</a>
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
@@ -69,10 +71,10 @@ _Jan. 2015 - present_
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
 - More Detials? Please visit 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="http://yiwenshi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="http://yiwenshi.com/project/#LogSheet" target="_blank">Online Log Sheet System</a> 
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
