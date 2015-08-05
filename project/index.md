@@ -31,7 +31,6 @@ I implement following parts:
 	   	<li class="imgStyle"><img src="image/Timesheet3.jpg"/></li>
 	    <li class="imgStyle"><img src="image/Timesheet4.jpg"/></li>
 	    <li class="imgStyle"><img src="image/Timesheet5.jpg"/></li>
-	    <li class="imgStyle"><img src="image/Timesheet6.jpg"/></li>
 	</ul>
 </div>
 </span>
