@@ -89,7 +89,7 @@ I implement following parts:
 - 2D face recognition based on LBPH algorithm.
 
 <video controls>
-<source src="FaceLock.mp4" type="video/mp4">
+<source src="image/FaceLock.mp4" type="video/mp4">
 </video>
 <img src="image/FaceLock1.jpg" id="mainImg4" class="mainImgStyle">
 <div id="div1" onclick="changeImg(event,'mainImg4')" class="imgStyle">
