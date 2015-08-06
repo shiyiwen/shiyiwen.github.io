@@ -76,7 +76,7 @@ _Jan. 2015 - present_
 <a href="http://yiwenshi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a>
 <br>
 &nbsp;&nbsp;&nbsp;
-<a href="http://yiwenshi.com/project/#LogSheet" target="_blank">Online Log Sheet System</a> 
+<a href="http://yiwenshi.com/project/#LogSheet" target="_blank">Log Sheet</a> 
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
 #### IT team leader & System Administrator, CITIC Trust Co., Ltd., IT Department
