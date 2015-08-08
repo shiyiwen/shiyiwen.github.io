@@ -65,8 +65,7 @@ It is a project for Measurement Evaluation Center, University of Houston.<br>
 It is an ASP.NET Web Forms application to manage the scanning log.<br>
 I implement following parts:
 
-- A GridView to insert, edit and delete records of scaning log.
-- Implemented A GridView to insert, update, delete and validate records of scanning log. 
+- A GridView to insert, update, delete and validate records of scanning log. 
 
 <img src="image/logsheet.jpg" id="mainImg3" class="mainImgStyle">
 
