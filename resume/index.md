@@ -16,10 +16,10 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf)
 </span>
 
 - Programming Languages: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;__Proficient: Java, C#__  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;__Proficient: C#, Java__  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Experience with: Objective-C, C, Python, HTML, CSS, JavaScript 
 - Statistical Packages: R, MATLAB, SPSS
-- Libraries: MapReduce, ASP.net MVC4, OpenCV 
+- Libraries: MapReduce, ASP.net MVC4, OpenCV, jQuery
 - Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode
 - Tools: GitHub
 
@@ -66,7 +66,7 @@ _Jun. 2015 - Aug. 2015_
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
-_Jan. 2015 - present_
+_Jan. 2015 - May 2015_
 
 - Developed and maintained the Course Evaluation System of University of Houston.
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
