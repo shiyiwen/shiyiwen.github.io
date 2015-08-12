@@ -21,7 +21,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf)
 - Statistical Packages: R, MATLAB, SPSS
 - Libraries: MapReduce, ASP.net MVC4, OpenCV, jQuery
 - Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode
-- Tools: GitHub
+- Tools: GitHub, MS Office
 
 <span id="Education">
 ***
