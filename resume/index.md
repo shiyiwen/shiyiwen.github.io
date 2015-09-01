@@ -33,7 +33,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf)
 _Expected May 2016_
 
 - GPA: 3.85/4.0
-- Main Courses: Data Mining, Big Data Analytics, Advanced Data Structures
+- Concentration: Data Analytics
 
 <img align="right" src="http://yiwenshi.com/image/RUC.jpg">
 #### M.A. Management Science and Engineering, School of Business, Renmin University of China
@@ -47,7 +47,6 @@ _Jul. 2011_
 _Jul. 2009_
 
 - GPA: 3.6/4.0
-- Main Courses: Object-oriented Programming, Data Structures and Algorithms, Database System, Software Engineering
 
 <span id="Employment">
 ***
@@ -58,7 +57,7 @@ _Jul. 2009_
 #### Developer Internship, Fitiri
 _Jun. 2015 - Aug. 2015_
 
-- Built a Timesheet System to manage employee’s personal information and work attendance. 
+- Designed and developed an ASP.NET MVC 4 web application to manage employee’s personal information and work attendance, based on the architecture of Fitiri’s TimesheetMS, which is a solution helping oil/natural gas company track the working hours of employees.
 - More Detials? Please visit
 
 &nbsp;&nbsp;&nbsp;
@@ -68,7 +67,7 @@ _Jun. 2015 - Aug. 2015_
 #### Research Assistant, MEC, University of Houston
 _Jan. 2015 - May 2015_
 
-- Developed and maintained the Course Evaluation System of University of Houston.
+- Developed and maintained the Course Evaluation System of University of Houston in ASP.NET.
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
 - More Detials? Please visit 
 
