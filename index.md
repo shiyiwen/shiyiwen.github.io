@@ -7,8 +7,6 @@ comments: no
 
 <img align="right" src="image/YiwenShi.jpg">
 
-An accomplished Software Developer with extensive experience in full cycle software development including involvement in the development of software requirements, analysis, design, implementation, testing, object oriented design, documentation, and maintenance in a disciplined software engineering environment.
-
 I am a secend year master student in Computer Science, University of Houston.
 
 I will graduate in May 2016. I am looking for internship, and also a fulltime job as Software Developer/IT Consultant.
