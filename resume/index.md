@@ -55,7 +55,7 @@ _Jul. 2009_
 </span>
 <img align="right" src="http://yiwenshi.com/image/Fitiri.jpg">
 #### Developer Internship, Fitiri
-_Jun. 2015 - Aug. 2015_
+_Summer 2015_
 
 - Designed and developed an ASP.NET MVC 4 web application to manage employee’s personal information and work attendance, based on the architecture of Fitiri’s TimesheetMS, which is a solution helping oil/natural gas company track the working hours of employees.
 - More Detials? Please visit
@@ -65,7 +65,7 @@ _Jun. 2015 - Aug. 2015_
 
 <img align="right" src="http://yiwenshi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
-_Jan. 2015 - May 2015_
+_2014 - present_
 
 - Developed and maintained the Course Evaluation System of University of Houston in ASP.NET.
 - Analysis course evaluation data by using SPSS and Visual Basic Macro, write statistical reports.
@@ -79,7 +79,7 @@ _Jan. 2015 - May 2015_
 
 <img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
 #### IT team leader & System Administrator, CITIC Trust Co., Ltd., IT Department
-_Jul. 2011- Jul. 2014_
+_2011 - 2014_
 
 Trust Finance System / Payments and Receivables System<br>
 -Administrate Finance Management System, which operate in Window, Linux, and Oracle database.<br>
