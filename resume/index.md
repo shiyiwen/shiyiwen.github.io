@@ -82,6 +82,7 @@ _2014 - present_
 _2011 - 2014_
 
 Trust Finance System / Payments and Receivables System<br>
+
 - Administrate Finance Management System, which operate in Window, Linux, and Oracle database.<br>
 - Maintain and optimize large-scale enterprise databases to assist various business applications.<br>
 - Led business team to analyze business process, manage requirement and design test cases.<br>
