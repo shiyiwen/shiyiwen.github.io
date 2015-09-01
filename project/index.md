@@ -15,7 +15,7 @@ title: Project
 
 <span id="Timesheet">
 ###Timesheet System ([Demo](http://timesheetdemo.somee.com))<br>
-_Summer 2015_| __C# / ASP.NET MVC4 / Entity Framework / CSS / jQuery__
+_Summer 2015_ | __C# / ASP.NET MVC4 / Entity Framework / CSS / jQuery__
 
 This is an ASP.NET MVC 4 web application to manage employee’s personal information and work attendance, based on the architecture of Fitiri’s TimesheetMS.<br>
 I implement following parts:
@@ -38,7 +38,7 @@ I implement following parts:
 
 <span id="EvalRpt">
 ###Online Course Evaluation Report
-__Spring 2015 - Present_ | __C# / Visual Studio / SQL Server__
+_Spring 2015 - Present_ | __C# / Visual Studio / SQL Server__
 
 It is a project for Measurement Evaluation Center, University of Houston.<br>
 It is an ASP.NET Web Forms application to generate online course evaluation report for all the faculties and students.<br>
