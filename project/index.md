@@ -3,10 +3,24 @@ layout: page
 title: Project
 ---
 
+[AngularJS](#AngularJS)<br>
 [ASP.NET](#ASPNET)<br>
 [IOS](#IOS)<br>
 [Java](#Java)<br>
 [Matlab](#Matlab)
+<span id="AngularJS">
+***
+##AngularJS Development
+---
+</span>
+###Unit Converter
+_Fall 2015_ | __HTML5 / CSS3 / AngularJS__
+
+- Providing online conversion of length, weight, area, volume and speed with great user experience.
+- Using AngularJS to implement two way data-binding and refine the conversion result format with custom derivative.
+
+<img src="image/UnitConverter.jpg" id="mainImg0" class="mainImgStyle">
+
 <span id="ASPNET">
 ***
 ##ASP.NET Development
