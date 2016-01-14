@@ -19,7 +19,7 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;__Proficient: C#, Java__  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Experience with: Objective-C, C, Python, HTML, CSS, JavaScript 
 - Statistical Packages: R, MATLAB, SPSS
-- Libraries: MapReduce, ASP.net MVC4, OpenCV, jQuery
+- Libraries: MapReduce, ASP.net MVC4, OpenCV, jQuery, AngularJS
 - Platforms/IDEs: Windows/Visual Studio, Linux/Eclipse, Mac/Xcode
 - Tools: GitHub, MS Office
 
