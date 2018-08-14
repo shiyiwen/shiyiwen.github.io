@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf) 
+Resume: [PDF](http://www.yiwen-shi.com/files/YiwenShi_CV_en.pdf) 
 
 
 [Technical Strengths](#Technical)<br>
@@ -28,21 +28,21 @@ Resume: [PDF](http://www.yiwenshi.com/files/YiwenShi_CV_en.pdf)
 ## Education
 ---
 </span>
-<img align="right" src="http://yiwenshi.com/image/UH.jpg">
+<img align="right" src="http://yiwen-shi.com/image/UH.jpg">
 #### M.S. Computer Science, University of Houston	
 _Expected May 2016_
 
 - GPA: 3.85/4.0
 - Concentration: Data Analytics
 
-<img align="right" src="http://yiwenshi.com/image/RUC.jpg">
+<img align="right" src="http://yiwen-shi.com/image/RUC.jpg">
 #### M.A. Management Science and Engineering, School of Business, Renmin University of China
 _Jul. 2011_
 
 - GPA: 3.7/4.0
 - Concentration: Management Information System
 
-<img align="right" src="http://yiwenshi.com/image/BUPT.jpg">
+<img align="right" src="http://yiwen-shi.com/image/BUPT.jpg">
 #### B.E. Computer Science, Beijing University of Posts and Telecommunications
 _Jul. 2009_
 
@@ -53,7 +53,7 @@ _Jul. 2009_
 ## Employment
 ---
 </span>
-<img align="right" src="http://yiwenshi.com/image/Fitiri.jpg">
+<img align="right" src="http://yiwen-shi.com/image/Fitiri.jpg">
 #### Developer Internship, Fitiri
 _Summer 2015_
 
@@ -61,9 +61,9 @@ _Summer 2015_
 - More Detials? Please visit
 
 &nbsp;&nbsp;&nbsp;
-<a href="http://yiwenshi.com/project/#Timesheet" target="_blank">Timesheet System</a>
+<a href="http://yiwen-shi.com/project/#Timesheet" target="_blank">Timesheet System</a>
 
-<img align="right" src="http://yiwenshi.com/image/UH.jpg">
+<img align="right" src="http://yiwen-shi.com/image/UH.jpg">
 #### Research Assistant, MEC, University of Houston
 _2014 - present_
 
@@ -72,12 +72,12 @@ _2014 - present_
 - More Detials? Please visit 
 
 &nbsp;&nbsp;&nbsp;
-<a href="http://yiwenshi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a>
+<a href="http://yiwen-shi.com/project/#EvalRpt" target="_blank">Online Course Evaluation Report</a>
 <br>
 &nbsp;&nbsp;&nbsp;
-<a href="http://yiwenshi.com/project/#LogSheet" target="_blank">Log Sheet</a> 
+<a href="http://yiwen-shi.com/project/#LogSheet" target="_blank">Log Sheet</a> 
 
-<img align="right" src="http://yiwenshi.com/image/CITICT.jpg">
+<img align="right" src="http://yiwen-shi.com/image/CITICT.jpg">
 #### IT team leader & System Administrator, CITIC Trust Co., Ltd., IT Department
 _2011 - 2014_
 

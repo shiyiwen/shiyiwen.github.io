@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://www.yiwenshi.com
+url: http://www.yiwen-shi.com
 author: Yiwen Shi
 pygments: true
 
